@@ -14,13 +14,17 @@
 
 <video src="https://www.bilibili.com/video/BV1wj2mYhESa/?vd_source=d50c805575eb96e9f20a45e57bac270c"></video>
 
+
 ![example gif](Figs/Lab03_Caculator - SampleScene.gif) 
+
 
 源代码见`./Scripts/CalculatorController.cs`
 
 有类图如下：
 
+
 ![example gif](Figs/MVC Pattern.png)
+
 
 将代码分为 Model-View-Controller (MVC) 结构后，我们可以把逻辑和显示部分拆分为三个独立的类：
 
