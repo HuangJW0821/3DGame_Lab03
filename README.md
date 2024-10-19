@@ -10,9 +10,9 @@
 
 ### 实验结果
 
-##### 展示视频：https://www.bilibili.com/video/BV1wj2mYhESa/?vd_source=d50c805575eb96e9f20a45e57bac270c
+##### 展示视频：https://www.bilibili.com/video/BV1wj2mYhESa/
 
-<video src="https://www.bilibili.com/video/BV1wj2mYhESa/?vd_source=d50c805575eb96e9f20a45e57bac270c"></video>
+<video src="https://www.bilibili.com/video/BV1wj2mYhESa/"></video>
 
 
 ![example gif](https://github.com/HuangJW0821/3DGame_Lab03/blob/main/Figs/Lab03_Caculator%20-%20SampleScene.gif?raw=true) 
